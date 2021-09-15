@@ -1,2 +1,3 @@
 - Git
 - Mac创建root
+- 待定
