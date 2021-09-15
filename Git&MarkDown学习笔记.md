@@ -17,9 +17,10 @@
 >   > 说白了就是 git commit 把暂存区的修改提交到的地方
 >   >
 >   > 这个地方也是我们本地的最终版本库
+<center>
 
 ![git-repo](https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg)
-
+</center>
 ## 增添文件到暂存区
 
 ```shell
