@@ -23,7 +23,7 @@
 
 </center>
 
-<div style="align: center">
+<div style="text-align: center">
 <img src="https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg"/>
 </div>
 
