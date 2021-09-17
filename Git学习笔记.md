@@ -27,6 +27,11 @@
 <img src="https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg"/>
 </div>
 
+<p align="center">
+  <img src="https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg" />
+</p>
+
+
 ## 增添文件到暂存区
 
 ```shell
