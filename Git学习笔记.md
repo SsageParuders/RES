@@ -17,20 +17,10 @@
 >   > 说白了就是 git commit 把暂存区的修改提交到的地方
 >   >
 >   > 这个地方也是我们本地的最终版本库
-<center>
-
-![git-repo](https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg)
-
-</center>
-
-<div style="text-align: center">
-<img src="https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg"/>
-</div>
 
 <p align="center">
-  <img src="https://i.loli.net/2021/09/13/ideR3pW7tXCYl9Q.jpg" />
+  <img src="https://raw.githubusercontent.com/SsageParuders/HQ_Notes/master/img/202109171754411.png" />
 </p>
-
 
 ## 增添文件到暂存区
 
