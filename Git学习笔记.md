@@ -19,7 +19,7 @@
 >   > 这个地方也是我们本地的最终版本库
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SsageParuders/HQ_Notes/master/img/202109171754411.png" />
+  <img src="https://raw.githubusercontent.com/SsageParuders/HQ_Notes/master/img/202109171820182.png" />
 </p>
 
 ## 增添文件到暂存区
